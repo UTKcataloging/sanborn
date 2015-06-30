@@ -155,7 +155,6 @@
         <identifier>sanborn_knoxville1890_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1015</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1890</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -590,7 +589,6 @@
         <identifier>sanborn_knoxville1890_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1014</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1890</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -1112,7 +1110,6 @@
         <identifier>sanborn_knoxville1903_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A58</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -2358,8 +2355,6 @@
         <identifier>sanborn:136</identifier>
         <identifier>sanborn_knoxville1917_0003</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A136</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -2823,7 +2818,6 @@
         <identifier>sanborn_knoxville1903_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A57</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -3519,7 +3513,6 @@
         <identifier>sanborn_knoxville1917_0005</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A138</object_in_context>
         <physicalDescription_note>200 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -3577,7 +3570,6 @@
         <identifier>sanborn_knoxville1917_0005</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1138</object_in_context>
         <physicalDescription_note>200 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -3722,7 +3714,6 @@
         <identifier>sanborn_knoxville1884_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1001</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1884</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -4649,8 +4640,6 @@
         <identifier>sanborn:137</identifier>
         <identifier>sanborn_knoxville1917_0004</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A137</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -5056,7 +5045,6 @@
         <identifier>sanborn_knoxville1903_0003</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1059</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -6882,8 +6870,6 @@
         <identifier>sanborn:1136</identifier>
         <identifier>sanborn_knoxville1917_0003</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1136</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -7462,8 +7448,6 @@
         <identifier>sanborn:134</identifier>
         <identifier>sanborn_knoxville1917_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A134</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -7550,7 +7534,6 @@
         <identifier>sanborn_knoxville1903_0003</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A59</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -7811,7 +7794,6 @@
         <identifier>sanborn_knoxville1903_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1057</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -8709,8 +8691,6 @@
         <identifier>sanborn:1135</identifier>
         <identifier>sanborn_knoxville1917_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1135</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -9753,8 +9733,6 @@
         <identifier>sanborn:1137</identifier>
         <identifier>sanborn_knoxville1917_0004</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1137</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -10247,7 +10225,6 @@
         <identifier>sanborn_knoxville1903_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1058</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1903</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -11174,8 +11151,6 @@
         <identifier>sanborn:1134</identifier>
         <identifier>sanborn_knoxville1917_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1134</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -11378,7 +11353,6 @@
         <identifier>sanborn_knoxville1890_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A15</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1890</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -13176,7 +13150,6 @@
         <identifier>sanborn_knoxville1890_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A14</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1890</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -14393,8 +14366,6 @@
         <identifier>sanborn:135</identifier>
         <identifier>sanborn_knoxville1917_0002</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A135</object_in_context>
-        <physicalDescription_note></physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1917</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
@@ -14626,7 +14597,6 @@
         <identifier>sanborn_knoxville1884_0001</identifier>
         <object_in_context>http://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1</object_in_context>
         <physicalDescription_note>50 ft./inch</physicalDescription_note>
-        <part_detail_title></part_detail_title>
         <subject_temporal>1884</subject_temporal>
         <subject_geographic>Knoxville (Tenn.) | URI: http://id.loc.gov/authorities/names/n79109786 | Coordinates: 35.96064, -83.92074</subject_geographic>
         <item_type>cartographic</item_type>
